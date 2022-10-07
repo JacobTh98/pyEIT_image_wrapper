@@ -4,7 +4,7 @@ This repository provides functions to convert an image to the pyEIT mesh.
 
 ## Example 1:
 
-<p float="center">
+<p float="mid">
   <img src="images/geometry_to_img_1.png" width="450" />
 </p>
 
