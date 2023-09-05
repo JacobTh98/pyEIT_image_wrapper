@@ -1,7 +1,6 @@
 import math
 
 import cv2
-import matplotlib.pyplot as plt
 import numpy as np
 import pyeit.mesh as mesh
 from pyeit.mesh import PyEITMesh
